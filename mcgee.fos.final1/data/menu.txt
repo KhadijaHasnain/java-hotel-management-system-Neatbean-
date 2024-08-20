@@ -1,0 +1,8 @@
+Coke,250ml,2.9,Beverage
+Pepsi ,400ml,3.0,Beverage
+Nasi Goreng Seafood,Spicy,10.0,Thai
+Maggi Goreng,No Spicy,5.0,Thai
+Chicken Chop,XXL,20.0,Western
+Teh O ,Ice,3.5,Beverage
+Limau,Ice,3.0,Beverage
+Magi Goreng Spicy,Spicy,12.0,Thai
